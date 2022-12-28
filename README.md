@@ -5,7 +5,6 @@ A swahili CLI wordle game to waste your time with.
 ## Screenshots
 
 <p align="center">
-    <img src="./assets/manenoLost.png">
     <img src="./assets/manenoWin.png">
 </p>
 
