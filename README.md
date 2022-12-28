@@ -11,9 +11,9 @@ A swahili CLI wordle game to waste your time with.
 ## How To Play
 
 Try guess a five letter swahili word. There aren't any clues up front, so any five-letter word will do as an initial guess. When you type a guess, the color of each letter's box changes:
-    - If it turns green, that letter is in the daily word and you've placed it in the right spot.
-    - If it turns yellow, the letter is in the word but you have it in the wrong position.
-    - If the box turns grey, it means the letter isn't in the word at all.
+ - If it turns green, that letter is in the daily word and you've placed it in the right spot.
+ - If it turns yellow, the letter is in the word but you have it in the wrong position.
+ - If the box turns grey, it means the letter isn't in the word at all.
 
 You have six tries to guess the correct word.
 
